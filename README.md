@@ -14,3 +14,5 @@ For a more in-depth explanation check out: https://help.github.com/articles/help
 
 #### Template Generation
 To generate template customized to your project, check out: [Issue and Pull Request Templates Generator](https://www.talater.com/open-source-templates/)
+
+test
